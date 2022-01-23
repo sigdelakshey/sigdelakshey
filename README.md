@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm Akshey Sigdel
+### I'm Akshey Sigdel
 
 💻 &nbsp;Aspiring Software Engineering
 
