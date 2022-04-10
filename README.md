@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Akshey Sigdel
 
-💻 &nbsp;Aspiring Software Engineering
+💻 &nbsp;Aspiring Software Engineer
 
 🤖 &nbsp;Also dabbling with Machine Learning
 
